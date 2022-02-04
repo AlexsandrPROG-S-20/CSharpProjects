@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Task>
+    <Theme>Сходить в кино</Theme>
+    <Text>Фильм Анаконда</Text>
+    <Date>2022-02-03T22:40:19</Date>
+    <Name>root</Name>
+    <Status>DO</Status>
+  </Task>
+  <Task>
+    <Theme>Встреча с клиентом</Theme>
+    <Text>Встреча с клиентом по поводу проекта.</Text>
+    <Date>2022-02-04T10:00:19</Date>
+    <Name>root</Name>
+    <Status>DO</Status>
+  </Task>
+  <Task>
+    <Theme>Забрать матриалы со склада</Theme>
+    <Text>Забрать неиспользованные матриалы со склада. И перенести в гараж.</Text>
+    <Date>2022-02-02T09:00:19</Date>
+    <Name>root</Name>
+    <Status>DONE</Status>
+  </Task>
+  <Task>
+    <Theme>Работа в офисе</Theme>
+    <Text>Офисная работа</Text>
+    <Date>2022-02-03T14:00:19</Date>
+    <Name>root</Name>
+    <Status>INPROGRESS</Status>
+  </Task>
+  <Task>
+    <Theme>Работа в офисе</Theme>
+    <Text>Офисная работа администратором.</Text>
+    <Date>2022-02-03T13:23:24.8893905+02:00</Date>
+    <Name>admin</Name>
+    <Status>DO</Status>
+  </Task>
+  <Task>
+    <Theme>Выезд к заказчику для настройки интернета</Theme>
+    <Text>Выезд к заказчику на фирму "Юма" для настройки сети интернет.</Text>
+    <Date>2022-02-01T15:30:04</Date>
+    <Name>admin</Name>
+    <Status>DONE</Status>
+  </Task>
+</ArrayOfTask>
